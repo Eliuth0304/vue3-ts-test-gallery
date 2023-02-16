@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import TheGallery from "./components/TheGallery.vue";
+  import TheGallery from "./components/TheGallery.vue";
 </script>
 
 <template>
@@ -10,11 +10,9 @@ import TheGallery from "./components/TheGallery.vue";
 </template>
 
 <style lang="scss" scoped>
-
   main {
     max-width: 1366px;
     padding: 15px;
     margin: 30px auto;
   }
-  
 </style>
